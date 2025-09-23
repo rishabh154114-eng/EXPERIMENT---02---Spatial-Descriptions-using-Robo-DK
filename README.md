@@ -1,4 +1,6 @@
-# EX.No  Spatial-Descriptions-using-Robo-DK
+## Name : Rishabh srivatsav
+## Reg No :25001966
+# EX1.No  Spatial-Descriptions-using-Robo-DK
 ## AIM
 To Simulate the Robot DK software for spatial descriptions
 
@@ -35,7 +37,8 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 Similaly fix target in the given position 
 
 ## Output
+<img width="1920" height="1200" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/cd2ba902-18f9-4406-9ff7-f06aedd756f4" />
 
 ## Results
 
-Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK. 
+Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK.the given ta is given target simulated Using Robo DK. 
